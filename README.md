@@ -1,2 +1,8 @@
-# SortingVisualizer
-In-browser javascript visualization of the most popular sorting algorithms. This app is created using Vanilla JavaScript
+# Sorting_Visualizer
+
+1) Bubble sort
+2) Selection sort
+3) Insertion sort
+4) Merge sort
+5) Quick sort
+6) Heap sort
